@@ -1,3 +1,4 @@
+#needs ffmpeg installed
 cp -a /$1/. /$2/  #copy the whole dir from src to dest
 
 #cd $2 #change dir to dest
