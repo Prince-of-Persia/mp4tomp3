@@ -13,3 +13,5 @@ If script is in the same directory
 
 `./mp4tomp3.sh /PATH/TO/SOURCE /PATH/TO/DESTINATION`
 
+# Dependencies
+ffmpeg
