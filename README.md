@@ -1,7 +1,7 @@
 # mp4tomp3
 Automatically convert *.mp4 to *.mp3  
 
-# Usage
+## Usage
 
 run mp4tomp3 and pass the source and destination folder paths as command arguments
 
@@ -13,5 +13,5 @@ If script is in the same directory
 
 `./mp4tomp3.sh /PATH/TO/SOURCE /PATH/TO/DESTINATION`
 
-# Dependencies
+## Dependencies
 ffmpeg
